@@ -1,0 +1,29 @@
+.fase {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
+.fase:hover {
+    background-color: blue;
+}
+.faswes {
+    width: 30px;
+    height: 30px;
+    background-color: green;
+    color: white;
+}
+.faswes:active {
+    background-color: yellow;
+    color: black;
+}
+.ute {
+    width: 100px;
+    height: 20px;
+    background-color: limegreen;
+}
+.ute:focus {
+    background-color: orange;
+}
+.text > p:first-child {
+    color: red;
+}
